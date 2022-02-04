@@ -7,5 +7,3 @@ Green
 Blue
 Indigo
 Violet
-
-you saw nothing
